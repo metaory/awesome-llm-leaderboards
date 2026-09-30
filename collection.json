@@ -33,6 +33,14 @@
     "icon": "https://benchlm.ai/favicon.svg"
   },
   {
+    "id": "claudemodels",
+    "name": "Claude cost vs quality",
+    "url": "https://claude-models.agensse.com/",
+    "description": "Every Claude model compared on cost and quality at each effort level, from public measurements, with open data.",
+    "tags": ["comparison", "pricing", "benchmarks"],
+    "icon": "https://claude-models.agensse.com/favicon.svg"
+  },
+  {
     "id": "cloudquell",
     "name": "CloudQuell",
     "url": "https://cloud.cloudquell.com/llm/?status=ga",

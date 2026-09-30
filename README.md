@@ -17,6 +17,7 @@ Model rankings and price sheets live on dozens of sites. Searching for "best cod
 - [Arena](https://arena.ai/leaderboard/code/webdev) - Community-driven model leaderboard for web development.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Independent model and AI agent performance analysis.
 - [BenchLM](https://benchlm.ai/) - Current LLM leaderboard and benchmark results.
+- [Claude cost vs quality](https://claude-models.agensse.com/) - Every Claude model compared on cost and quality at each effort level, from public measurements, with open data.
 - [CloudQuell](https://cloud.cloudquell.com/llm/?status=ga) - LLM API pricing with input, output, cached, and batch rates.
 - [Comparity](https://comparity.ai/leaderboard.html) - AI model leaderboard and comparisons.
 - [EmproIT](https://emproit.com/tools/llm-cost-calculator/) - LLM API cost calculator and pricing comparison.

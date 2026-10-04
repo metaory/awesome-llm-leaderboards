@@ -20,6 +20,7 @@ Model rankings and price sheets live on dozens of sites. Searching for "best cod
 - [Claude cost vs quality](https://claude-models.agensse.com/) - Every Claude model compared on cost and quality at each effort level, from public measurements, with open data.
 - [CloudQuell](https://cloud.cloudquell.com/llm/?status=ga) - LLM API pricing with input, output, cached, and batch rates.
 - [Comparity](https://comparity.ai/leaderboard.html) - AI model leaderboard and comparisons.
+- [DeepSeek Research Hub](https://dseek.app/api-pricing) - Unofficial DeepSeek API price table with peak and off-peak rates and a cost calculator, cited from DeepSeek's pricing page.
 - [EmproIT](https://emproit.com/tools/llm-cost-calculator/) - LLM API cost calculator and pricing comparison.
 - [LeadsCalc](https://www.leadscalc.com/calculators/ai/api-cost-estimator) - API pricing calculator with benchmark context.
 - [LiveBench](https://livebench.ai/) - Contamination-free benchmark leaderboard for LLMs.

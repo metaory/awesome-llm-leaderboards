@@ -57,6 +57,14 @@
     "icon": "https://comparity.ai/images/favicon-monogram.png"
   },
   {
+    "id": "dseek",
+    "name": "DeepSeek Research Hub",
+    "url": "https://dseek.app/api-pricing",
+    "description": "Unofficial DeepSeek API price table with peak and off-peak rates and a cost calculator, cited from DeepSeek's pricing page.",
+    "tags": ["pricing", "calculator"],
+    "icon": "https://dseek.app/favicon.svg"
+  },
+  {
     "id": "emproit",
     "name": "EmproIT",
     "url": "https://emproit.com/tools/llm-cost-calculator/",

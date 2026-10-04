@@ -45,7 +45,7 @@
     "id": "benchlm",
     "name": "BenchLM",
     "url": "https://benchlm.ai/",
-    "description": "Compare 508 AI models across 486 benchmarks, with 194 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
+    "description": "Compare 783 AI models across 645 benchmarks, with 212 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
     "tags": [
       "leaderboard",
       "benchmarks"
@@ -55,10 +55,24 @@
     "screenshot": "/shots/benchlm.jpg"
   },
   {
+    "id": "claudemodels",
+    "name": "Claude cost vs quality",
+    "url": "https://claude-models.agensse.com/",
+    "description": "What each Claude model (Fable, Opus, Sonnet, Haiku) costs at every effort level, and which gives the best quality for the price. Open data, CC BY 4.0.",
+    "tags": [
+      "comparison",
+      "pricing",
+      "benchmarks"
+    ],
+    "icon": "https://claude-models.agensse.com/favicon.svg",
+    "enable": true,
+    "screenshot": "/shots/claudemodels.jpg"
+  },
+  {
     "id": "cloudquell",
     "name": "CloudQuell",
     "url": "https://cloud.cloudquell.com/llm/?status=ga",
-    "description": "Compare API pricing for 51 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.",
+    "description": "Compare API pricing for 55 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.",
     "tags": [
       "pricing",
       "comparison"
@@ -71,12 +85,12 @@
     "id": "comparity",
     "name": "Comparity",
     "url": "https://comparity.ai/leaderboard.html",
-    "description": "Regularly updated leaderboard of language model rankings from blind pairwise comparisons and Cascading-mode dwell time in Comparity.ai, a free and open arena-like benchmark for LLM evaluation.",
+    "description": "AI model leaderboard and comparisons.",
     "tags": [
       "leaderboard",
       "comparison"
     ],
-    "icon": "https://comparity.ai/images/favicon-monogram.png",
+    "icon": "data:image/png;base64,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",
     "enable": true,
     "screenshot": "/shots/comparity.jpg"
   },
@@ -235,7 +249,7 @@
     "id": "opencode",
     "name": "OpenCode Data",
     "url": "https://opencode.ai/data/",
-    "description": "Explore OpenCode usage across AI models, including token volume, rankings, market share, token pricing, session cost, cache ratio, and geo breakdowns.",
+    "description": "As of October 4, 2026, space-bunny led OpenCode usage over the past 7 days with 57T tokens, followed by DeepSeek V4.1 Flash (33T) and Muse Spark 1.3 Contributor (30T).",
     "tags": [
       "coding",
       "benchmarks",
@@ -292,7 +306,7 @@
     "id": "tokencost",
     "name": "TokenCost",
     "url": "https://tokencost.app/pricing",
-    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 151+ LLMs. Sortable table with benchmarks. Free.",
+    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 155+ LLMs. Sortable table with benchmarks. Free.",
     "tags": [
       "pricing",
       "comparison"

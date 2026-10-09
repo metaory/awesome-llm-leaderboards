@@ -246,6 +246,21 @@
     "enable": true
   },
   {
+    "id": "modelbenchmark",
+    "url": "https://modelbenchmark.io/",
+    "tags": [
+      "leaderboard",
+      "benchmarks",
+      "comparison",
+      "pricing"
+    ],
+    "name": "ModelBenchmark",
+    "description": "Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.",
+    "icon": "https://modelbenchmark.io/favicon.svg",
+    "screenshot": "/shots/modelbenchmark.jpg",
+    "enable": true
+  },
+  {
     "id": "opencode",
     "url": "https://opencode.ai/data/",
     "tags": [

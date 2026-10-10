@@ -129,6 +129,13 @@
     "tags": ["leaderboard", "benchmarks", "coding", "pricing"]
   },
   {
+    "id": "theaggregate",
+    "name": "The Aggregate",
+    "url": "https://theaggregate.ai/models",
+    "tags": ["leaderboard", "benchmarks", "comparison"],
+    "wait": 5000
+  },
+  {
     "id": "tokencost",
     "url": "https://tokencost.app/pricing",
     "tags": ["pricing", "comparison"]

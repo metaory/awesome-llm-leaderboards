@@ -201,5 +201,16 @@
     "id": "compute-comparison",
     "url": "https://computecomparison.com/compare-two-llm-providers",
     "tags": ["comparison", "pricing"]
+  },
+  {
+    "id": "jvlangai",
+    "name": "Jvlang AI (巨浪 AI)",
+    "url": "https://jvlangai.com/models",
+    "tags": [
+      "catalog",
+      "pricing",
+      "comparison"
+    ],
+    "description": "Chinese-language model explorer with source-linked public API provider quotes, billing units and provider groups; collected prices are distinguished from live inference tests."
   }
 ]

@@ -51,7 +51,7 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [aivs.tv](https://aivs.tv/vs/) - Side-by-side AI model matchups built from posts on X where both models got the same prompt, with outputs shown as video and reported cost and time.
 - [Arena](https://arena.ai/leaderboard/code/webdev)
 - [Artificial Analysis](https://artificialanalysis.ai/) - Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed & latency.
-- [BenchLM](https://benchlm.ai/) - Compare 993 AI models across 710 benchmarks, with 229 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
+- [BenchLM](https://benchlm.ai/) - Compare 1004 AI models across 724 benchmarks, with 216 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
 - [CloudQuell](https://cloud.cloudquell.com/llm/?status=ga) - Compare API pricing for 60 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.
 - [Comparity](https://comparity.ai/leaderboard.html)
 - [Compute Comparison](https://computecomparison.com/compare-two-llm-providers) - Compare any two LLM API providers side-by-side on input/output token pricing, latency, throughput, and context window. Covers OpenAI, Anthropic, Google, Groq, and 14+ more.
@@ -65,21 +65,22 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [LLM Cost Hub](https://llmcosthub.com/pricing/) - Search, filter, and compare LLM API pricing across major providers in one place.
 - [LLM Economics](https://llmeconomics.app/leaderboard) - Compare verified OpenAI, Claude, Gemini, and DeepSeek API prices by standard workload, input tokens, cached input, and output tokens.
 - [LLMversus](https://llmversus.com/llm/pricing) - Compare LLM API pricing for GPT-4o, Claude Opus 4, Gemini 2.5 Pro, and 20+ more models. Sortable table with input/output costs, context windows, speed, and capabilities. Updated weekly.
-- [LLM Versus API Cost Calculator](https://llmversus.vercel.app/tools/api-cost-calculator/) - Free LLM API cost calculator - enter your monthly token usage and instantly compare what Claude, GPT-6, Gemini and DeepSeek APIs would cost. Find the cheapest …
+- [LLM Versus API Cost Calculator](https://llmversus.vercel.app/tools/api-cost-calculator/)
 - [ModelBenchmark](https://modelbenchmark.io/) - Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.
 - [modelgrep](https://modelgrep.com/) - Find the best AI model for your use case: 300+ LLMs ranked by benchmarks, live speed, latency and price. Filter by cost, licence, context or capability - updated hourly.
-- [OpenCode Data](https://opencode.ai/data/) - As of October 27, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 108T tokens, followed by MiniMax-M3.1-Flash (22T) and GLM-5.3-Flash (7.4T).
-- [OpenRouter](https://openrouter.ai/models) - Compare 500+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
+- [OpenCode Data](https://opencode.ai/data/) - As of November 1, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 128T tokens, followed by Muse Spark 1.3 Contributor (7.2T) and GLM-5.3-Flash (6.5T).
+- [OpenRouter](https://openrouter.ai/models) - Compare 600+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
 - [Just a moment...](https://pricepertoken.com/)
-- [RankLLMs](https://rankllms.com/) - Research-backed AI model and coding-tool reviews, head-to-head comparisons, pricing analysis and practical guides to help you choose what to use.
+- [RankLLMs](https://rankllms.com/) - Independent AI model leaderboard and LLM research: benchmark analysis, coding-agent reviews, head-to-head comparisons, API pricing and practical guides.
 - [The Aggregate](https://theaggregate.ai/models) - Every tracked model on one rating scale fitted across thousands of public benchmarks, with uncertainty and benchmark coverage shown for each.
-- [TokenCost](https://tokencost.app/pricing) - Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 167+ LLMs. Sortable table with benchmarks. Free.
+- [TokenCost](https://tokencost.app/pricing) - Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 168+ LLMs. Sortable table with benchmarks. Free.
 - [Top AI Hubs](https://topaihubs.com/llm-leaderboard) - Comprehensive comparison and ranking of over 180 AI models (LLMs) across key metrics including quality, price, performance, speed (tokens per second & latency), context window & benchmark scores.
 - [Vakati](https://www.vakati-tech.ai/compare) - Head-to-head comparisons of the top language models: LiveBench scores across seven categories, input and output pricing, context windows, and the measured cost of a point of capability. Updated every 15 minutes.
 - [Vellum](https://www.vellum.ai/best-llm-for-coding) - Guidance and evaluations for choosing coding models.
 - [Vercel AI Gateway](https://vercel.com/ai-gateway/models) - Compare capabilities, pricing, and performance across leading AI providers.
 - [VSModels](https://vsmodels.app/#comparisons) - Source-linked editorial model comparisons with browser cost calculators. Published benchmark conditions and third-party examples are distinguished from illustrative previews.
 - [WhatLLM](https://whatllm.org/explore) - Live LLM leaderboard ranking 100+ AI models by Intelligence Index, Agentic Index, cost per task, token price, speed, and context. Refreshed daily.
+- [Word Spies AI Arena](https://wordspies.com/arena) - LLMs play a team word-association game against each other; every clue graded and every guess judged. Ratings per model, replays, and the 376-game dataset on Hugging Face.
 
 <!-- END LIST -->
 

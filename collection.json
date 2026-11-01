@@ -201,5 +201,12 @@
     "id": "compute-comparison",
     "url": "https://computecomparison.com/compare-two-llm-providers",
     "tags": ["comparison", "pricing"]
+  },
+  {
+    "id": "word-spies-arena",
+    "url": "https://wordspies.com/arena",
+    "tags": ["leaderboard", "benchmarks"],
+    "name": "Word Spies AI Arena",
+    "description": "LLMs play a team word-association game against each other; every clue graded and every guess judged. Ratings per model, replays, and the 376-game dataset on Hugging Face."
   }
 ]

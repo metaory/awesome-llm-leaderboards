@@ -208,5 +208,12 @@
     "tags": ["leaderboard", "benchmarks"],
     "name": "Word Spies AI Arena",
     "description": "LLMs play a team word-association game against each other; every clue graded and every guess judged. Ratings per model, replays, and the 376-game dataset on Hugging Face."
+  },
+  {
+    "id": "trusthawk",
+    "name": "TrustHawk",
+    "url": "https://trusthawk.ai/compare",
+    "tags": ["comparison", "leaderboard"],
+    "description": "Compare the companies behind ChatGPT, Claude, Gemini, Grok and other models on safety, transparency, privacy and security. Covers 150+ AI companies, each score linked to its public source."
   }
 ]

@@ -88,7 +88,7 @@
       "comparison"
     ],
     "name": "CloudQuell",
-    "description": "Compare API pricing for 60 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.",
+    "description": "Compare API pricing for 67 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.",
     "icon": "https://cloud.cloudquell.com/favicon.svg",
     "screenshot": "/shots/cloudquell.jpg",
     "enable": true
@@ -281,7 +281,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of November 2, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 130T tokens, followed by Muse Spark 1.3 Contributor (7T) and GLM-5.3-Flash (6.3T).",
+    "description": "As of November 3, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 137T tokens, followed by Muse Spark 1.3 Contributor (7T) and GLM-5.3-Flash (6.3T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true
@@ -487,6 +487,19 @@
     "description": "LLMs play a team word-association game against each other; every clue graded and every guess judged. Ratings per model, replays, and the 376-game dataset on Hugging Face.",
     "icon": "https://wordspies.com/favicon.ico",
     "screenshot": "/shots/word-spies-arena.jpg",
+    "enable": true
+  },
+  {
+    "id": "trusthawk",
+    "url": "https://trusthawk.ai/compare",
+    "tags": [
+      "comparison",
+      "leaderboard"
+    ],
+    "name": "TrustHawk",
+    "description": "Compare the companies behind ChatGPT, Claude, Gemini, Grok and other models on safety, transparency, privacy and security. Covers 150+ AI companies, each score linked to its public source.",
+    "icon": "https://trusthawk.ai/favicon.ico?favicon.3xjc2ok4dv88x.ico",
+    "screenshot": "/shots/trusthawk.jpg",
     "enable": true
   }
 ]

@@ -215,5 +215,12 @@
     "url": "https://trusthawk.ai/compare",
     "tags": ["comparison", "leaderboard"],
     "description": "Compare the companies behind ChatGPT, Claude, Gemini, Grok and other models on safety, transparency, privacy and security. Covers 150+ AI companies, each score linked to its public source."
+  },
+  {
+    "id": "spicy-lab",
+    "name": "Spicy Lab",
+    "url": "https://spicyapi.app",
+    "tags": ["leaderboard", "comparison", "benchmarks"],
+    "description": "Independent comparison and benchmark site ranking NSFW AI image, video, and chat models with side-by-side test runs and published methodology (not a generator)."
   }
 ]

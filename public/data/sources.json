@@ -281,7 +281,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of November 9, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 151T tokens, followed by GLM-5.3-Flash (6.8T) and Muse Spark 1.3 Contributor (6.2T).",
+    "description": "As of November 9, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 154T tokens, followed by GLM-5.3-Flash (6.9T) and Muse Spark 1.3 Contributor (6.3T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true

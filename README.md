@@ -52,7 +52,7 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [aivs.tv](https://aivs.tv/vs/) - Side-by-side AI model matchups built from posts on X where both models got the same prompt, with outputs shown as video and reported cost and time.
 - [Arena](https://arena.ai/leaderboard/code/webdev)
 - [Artificial Analysis](https://artificialanalysis.ai/) - Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, time per task & latency.
-- [BenchLM](https://benchlm.ai/) - Compare 1020 AI models across 804 benchmarks, with 214 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
+- [BenchLM](https://benchlm.ai/) - Compare 1020 AI models across 816 benchmarks, with 214 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
 - [CloudQuell](https://cloud.cloudquell.com/llm/?status=ga) - Compare API pricing for 67 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.
 - [Comparity](https://comparity.ai/leaderboard.html)
 - [Compute Comparison](https://computecomparison.com/compare-two-llm-providers) - Compare any two LLM API providers side-by-side on input/output token pricing, latency, throughput, and context window. Covers OpenAI, Anthropic, Google, Groq, and 14+ more.
@@ -69,7 +69,7 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [LLM Versus API Cost Calculator](https://llmversus.vercel.app/tools/api-cost-calculator/)
 - [ModelBenchmark](https://modelbenchmark.io/) - Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.
 - [modelgrep](https://modelgrep.com/) - Find the best AI model for your use case: 300+ LLMs ranked by benchmarks, live speed, latency and price. Filter by cost, licence, context or capability - updated hourly.
-- [OpenCode Data](https://opencode.ai/data/) - As of November 10, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 154T tokens, followed by GLM-5.3-Flash (7T) and Muse Spark 1.3 Contributor (6.2T).
+- [OpenCode Data](https://opencode.ai/data/) - As of November 10, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 165T tokens, followed by GLM-5.3-Flash (7.5T) and Muse Spark 1.3 Contributor (6.6T).
 - [OpenRouter](https://openrouter.ai/models) - Compare 600+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
 - [Just a moment...](https://pricepertoken.com/)
 - [RankLLMs](https://rankllms.com/) - Independent AI model leaderboard and LLM research: benchmark analysis, coding-agent reviews, head-to-head comparisons, API pricing and practical guides.

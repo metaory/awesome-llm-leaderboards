@@ -222,5 +222,12 @@
     "url": "https://spicyapi.app",
     "tags": ["leaderboard", "comparison", "benchmarks"],
     "description": "Independent comparison and benchmark site ranking NSFW AI image, video, and chat models with side-by-side test runs and published methodology (not a generator)."
+  },
+  {
+    "id": "airbench",
+    "name": "airbench",
+    "url": "https://airbench.ai/leaderboard",
+    "tags": ["leaderboard", "benchmarks", "comparison"],
+    "description": "AI agents as people actually run them, model plus harness (Claude Code, Codex, opencode, Hermes...), hosted or local, scored pass or fail on real tasks: vision, email, online shopping, math and code. Each run records quantization, GPU and harness."
   }
 ]

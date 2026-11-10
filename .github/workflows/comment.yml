@@ -19,7 +19,7 @@ jobs:
         run: |
           marker='<!-- contribute -->'
           id=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${PR}/comments" --jq "map(select(.body | startswith(\"$marker\"))) | .[0].id")
-          [ "$id" != null ] && exit 0
+          [ -n "$id" ] && exit 0
           body="${marker}
           Thanks.
 

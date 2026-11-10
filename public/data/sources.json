@@ -75,7 +75,7 @@
       "benchmarks"
     ],
     "name": "BenchLM",
-    "description": "Compare 1016 AI models across 759 benchmarks, with 212 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
+    "description": "Compare 1020 AI models across 804 benchmarks, with 214 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
     "icon": "https://benchlm.ai/favicon.svg",
     "screenshot": "/shots/benchlm.jpg",
     "enable": true
@@ -281,7 +281,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of November 9, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 154T tokens, followed by GLM-5.3-Flash (6.9T) and Muse Spark 1.3 Contributor (6.3T).",
+    "description": "As of November 10, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 154T tokens, followed by GLM-5.3-Flash (7T) and Muse Spark 1.3 Contributor (6.2T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true
@@ -350,7 +350,7 @@
       "comparison"
     ],
     "name": "TokenCost",
-    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 170+ LLMs. Sortable table with benchmarks. Free.",
+    "description": "Input and output prices per 1M tokens for 172 LLM APIs from 30 providers, in one sortable table with benchmark scores. Cheapest: Qwen3.7 Flash at $0.03 / $0.13.",
     "icon": "https://tokencost.app/favicon.ico",
     "screenshot": "/shots/tokencost.jpg",
     "enable": true
@@ -513,6 +513,20 @@
     "description": "Independent comparison and benchmark site ranking NSFW AI image, video, and chat models with side-by-side test runs and published methodology (not a generator).",
     "icon": "https://spicyapi.app/favicon.ico",
     "screenshot": "/shots/spicy-lab.jpg",
+    "enable": true
+  },
+  {
+    "id": "airbench",
+    "url": "https://airbench.ai/leaderboard",
+    "tags": [
+      "leaderboard",
+      "benchmarks",
+      "comparison"
+    ],
+    "name": "airbench",
+    "description": "AI agents as people actually run them, model plus harness (Claude Code, Codex, opencode, Hermes...), hosted or local, scored pass or fail on real tasks: vision, email, online shopping, math and code. Each run records quantization, GPU and harness.",
+    "icon": "https://airbench.ai/favicon.svg",
+    "screenshot": "/shots/airbench.jpg",
     "enable": true
   }
 ]

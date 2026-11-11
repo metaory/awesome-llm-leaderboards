@@ -229,5 +229,12 @@
     "url": "https://airbench.ai/leaderboard",
     "tags": ["leaderboard", "benchmarks", "comparison"],
     "description": "AI agents as people actually run them, model plus harness (Claude Code, Codex, opencode, Hermes...), hosted or local, scored pass or fail on real tasks: vision, email, online shopping, math and code. Each run records quantization, GPU and harness."
+  },
+  {
+    "id": "modelsrank",
+    "name": "Models Rank",
+    "url": "https://modelsrank.org/en/",
+    "tags": ["leaderboard", "comparison"],
+    "description": "Minimal AI model leaderboard that answers three questions: which model is smartest, fastest and cheapest. Aggregates public third-party benchmarks (Artificial Analysis, Arena), updated weekly. Open source."
   }
 ]

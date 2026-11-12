@@ -236,5 +236,19 @@
     "url": "https://modelsrank.org/en/",
     "tags": ["leaderboard", "comparison"],
     "description": "Minimal AI model leaderboard that answers three questions: which model is smartest, fastest and cheapest. Aggregates public third-party benchmarks (Artificial Analysis, Arena), updated weekly. Open source."
+  },
+  {
+    "id": "geekindata-ai",
+    "name": "GeekInData AI",
+    "url": "https://ai.geekindata.com/ai-api-pricing",
+    "tags": ["pricing", "comparison"],
+    "description": "API token prices plus consumer plan prices and usage limits for ChatGPT, Claude, Gemini and Grok side by side. Every figure links to the vendor's own page with the date it was last checked; the data is CC BY 4.0."
   }
+
+
+
+
+
+
+
 ]

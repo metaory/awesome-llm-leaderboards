@@ -13,6 +13,13 @@
     "tags": ["pricing", "comparison"]
   },
   {
+    "id": "aihot",
+    "name": "AIHOT Model Leaderboard",
+    "url": "https://aihot.news/leaderboard",
+    "tags": ["leaderboard", "benchmarks", "comparison"],
+    "description": "Chinese-language model rankings compare published benchmark results across reasoning, coding and other tasks."
+  },
+  {
     "id": "aisubhub",
     "url": "https://aisubhub.top/en/rankings/",
     "tags": ["leaderboard", "comparison"]

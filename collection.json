@@ -250,5 +250,12 @@
     "url": "https://ai.geekindata.com/ai-api-pricing",
     "tags": ["pricing", "comparison"],
     "description": "API token prices plus consumer plan prices and usage limits for ChatGPT, Claude, Gemini and Grok side by side. Every figure links to the vendor's own page with the date it was last checked; the data is CC BY 4.0."
+  },
+  {
+    "id": "european-llm-price-index",
+    "name": "European LLM Price Index",
+    "url": "https://standardcompute.com/european-llm-price-index",
+    "tags": ["pricing", "comparison"],
+    "description": "Input and output prices per million tokens for 20 frontier and open models on each provider that lists them, with European endpoints marked and the cheapest European option where one exists. Dated snapshot with a JSON download."
   }
 ]

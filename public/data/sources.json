@@ -88,7 +88,7 @@
       "benchmarks"
     ],
     "name": "BenchLM",
-    "description": "Compare 1033 AI models across 817 benchmarks, with 215 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
+    "description": "Compare 1034 AI models across 828 benchmarks, with 215 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
     "icon": "https://benchlm.ai/favicon.svg",
     "screenshot": "/shots/benchlm.jpg",
     "enable": true
@@ -294,7 +294,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of November 16, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 170T tokens, followed by MiniMax-M3.1-Flash (9.5T) and GLM-5.3-Flash (8.3T).",
+    "description": "As of November 21, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 173T tokens, followed by Hy4 flash (30T) and GLM-5.3-Flash (6.5T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true
@@ -363,7 +363,7 @@
       "comparison"
     ],
     "name": "TokenCost",
-    "description": "Input and output prices per 1M tokens for 176 LLM APIs from 30 providers, in one sortable table with benchmark scores. Cheapest: Qwen3.7 Flash at $0.03 / $0.13.",
+    "description": "Input and output prices per 1M tokens for 180 LLM APIs from 30 providers, in one sortable table with benchmark scores. Cheapest: Qwen3.7 Flash at $0.03 / $0.13.",
     "icon": "https://tokencost.app/favicon.ico",
     "screenshot": "/shots/tokencost.jpg",
     "enable": true
@@ -567,6 +567,19 @@
     "description": "API token prices plus consumer plan prices and usage limits for ChatGPT, Claude, Gemini and Grok side by side. Every figure links to the vendor's own page with the date it was last checked; the data is CC BY 4.0.",
     "icon": "https://ai.geekindata.com/favicon.ico",
     "screenshot": "/shots/geekindata-ai.jpg",
+    "enable": true
+  },
+  {
+    "id": "european-llm-price-index",
+    "url": "https://standardcompute.com/european-llm-price-index",
+    "tags": [
+      "pricing",
+      "comparison"
+    ],
+    "name": "European LLM Price Index",
+    "description": "Input and output prices per million tokens for 20 frontier and open models on each provider that lists them, with European endpoints marked and the cheapest European option where one exists. Dated snapshot with a JSON download.",
+    "icon": "https://standardcompute.com/favicon.ico?favicon.0wy1i_aonch8s.ico",
+    "screenshot": "/shots/european-llm-price-index.jpg",
     "enable": true
   }
 ]

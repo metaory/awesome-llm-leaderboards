@@ -88,7 +88,7 @@
       "benchmarks"
     ],
     "name": "BenchLM",
-    "description": "Compare 1035 AI models across 835 benchmarks, with 216 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
+    "description": "Compare 1036 AI models across 835 benchmarks, with 216 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
     "icon": "https://benchlm.ai/favicon.svg",
     "screenshot": "/shots/benchlm.jpg",
     "enable": true
@@ -294,7 +294,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of November 23, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 165T tokens, followed by Hy4 flash (46T) and GLM-5.3 (4.9T).",
+    "description": "As of November 23, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 171T tokens, followed by Hy4 flash (48T) and GLM-5.3 (5.1T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true

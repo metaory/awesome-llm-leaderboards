@@ -54,11 +54,12 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [aivs.tv](https://aivs.tv/vs/) - Side-by-side AI model matchups built from posts on X where both models got the same prompt, with outputs shown as video and reported cost and time.
 - [Arena](https://arena.ai/leaderboard/code/webdev)
 - [Artificial Analysis](https://artificialanalysis.ai/) - Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, time per task & latency.
-- [BenchLM](https://benchlm.ai/) - Compare 1034 AI models across 828 benchmarks, with 215 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
+- [BenchLM](https://benchlm.ai/) - Compare 1035 AI models across 835 benchmarks, with 216 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
 - [CloudQuell](https://cloud.cloudquell.com/llm/?status=ga) - Compare API pricing for 71 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.
 - [Comparity](https://comparity.ai/leaderboard.html)
 - [Compute Comparison](https://computecomparison.com/compare-two-llm-providers) - Compare any two LLM API providers side-by-side on input/output token pricing, latency, throughput, and context window. Covers OpenAI, Anthropic, Google, Groq, and 14+ more.
 - [EmproIT](https://emproit.com/tools/llm-cost-calculator/) - Compare AI API costs across OpenAI, Anthropic, Google, Mistral. Daily, monthly, annual projections. Free, no signup.
+- [AI Model API Directory | GetLLMs](https://getllms.org/ai-model-api-directory) - Compare AI model APIs by modality, provider, pricing, context window, output limits, reasoning support, tool calling, and open-weights status.
 - [LeadsCalc](https://www.leadscalc.com/calculators/ai/api-cost-estimator) - Calculate and compare API costs and benchmarks for OpenAI, Anthropic, Google Gemini, and DeepSeek for free. Estimate token usage, vision processing, and batch discounts instantly.
 - [livebench.ai](https://livebench.ai/) - LiveBench 2.0 - a challenging, contamination-free long-horizon AI benchmark. Models do real work (decks, research reports, bug fixes, apps that run for hours) and we grade what they hand back.
 - [LLM Registry](https://llm-registry.com/) - Compare 1,500+ AI models side by side. Independent benchmark rankings for GPT, Claude, Gemini, DeepSeek, Llama and more - with provenance, pricing, and performance data.
@@ -72,14 +73,14 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [ModelBenchmark](https://modelbenchmark.io/) - Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.
 - [modelgrep](https://modelgrep.com/) - Find the best AI model for your use case: 300+ LLMs ranked by benchmarks, live speed, latency and price. Filter by cost, licence, context or capability - updated hourly.
 - [Models Rank](https://modelsrank.org/en/) - Minimal AI model leaderboard that answers three questions: which model is smartest, fastest and cheapest. Aggregates public third-party benchmarks (Artificial Analysis, Arena), updated weekly. Open source.
-- [OpenCode Data](https://opencode.ai/data/) - As of November 21, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 173T tokens, followed by Hy4 flash (30T) and GLM-5.3-Flash (6.5T).
+- [OpenCode Data](https://opencode.ai/data/) - As of November 23, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 165T tokens, followed by Hy4 flash (46T) and GLM-5.3 (4.9T).
 - [OpenRouter](https://openrouter.ai/models) - Compare 600+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
 - [Just a moment...](https://pricepertoken.com/)
 - [RankLLMs](https://rankllms.com/) - Independent AI reviews and head-to-head comparisons for US developers: coding agents, models, API pricing, and sourced release news.
 - [Spicy Lab](https://spicyapi.app) - Independent comparison and benchmark site ranking NSFW AI image, video, and chat models with side-by-side test runs and published methodology (not a generator).
 - [European LLM Price Index](https://standardcompute.com/european-llm-price-index) - Input and output prices per million tokens for 20 frontier and open models on each provider that lists them, with European endpoints marked and the cheapest European option where one exists. Dated snapshot with a JSON download.
 - [The Aggregate](https://theaggregate.ai/models) - Every tracked model on one rating scale fitted across thousands of public benchmarks, with uncertainty and benchmark coverage shown for each.
-- [TokenCost](https://tokencost.app/pricing) - Input and output prices per 1M tokens for 180 LLM APIs from 30 providers, in one sortable table with benchmark scores. Cheapest: Qwen3.7 Flash at $0.03 / $0.13.
+- [TokenCost](https://tokencost.app/pricing) - Input and output prices per 1M tokens for 183 LLM APIs from 30 providers, in one sortable table with benchmark scores. Cheapest: Qwen3.7 Flash at $0.03 / $0.13.
 - [Top AI Hubs](https://topaihubs.com/llm-leaderboard) - Compare AI model intelligence, pricing, speed, context windows and benchmark scores using the stored Artificial Analysis snapshot.
 - [TrustHawk](https://trusthawk.ai/compare) - Compare the companies behind ChatGPT, Claude, Gemini, Grok and other models on safety, transparency, privacy and security. Covers 150+ AI companies, each score linked to its public source.
 - [Vakati](https://www.vakati-tech.ai/compare) - Head-to-head comparisons of the top language models: LiveBench scores across seven categories, input and output pricing, context windows, and the measured cost of a point of capability. Updated every 15 minutes.

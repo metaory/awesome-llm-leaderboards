@@ -257,5 +257,10 @@
     "url": "https://standardcompute.com/european-llm-price-index",
     "tags": ["pricing", "comparison"],
     "description": "Input and output prices per million tokens for 20 frontier and open models on each provider that lists them, with European endpoints marked and the cheapest European option where one exists. Dated snapshot with a JSON download."
+  },
+  {
+    "id": "getllms",
+    "url": "https://getllms.org/ai-model-api-directory",
+    "tags": ["catalog", "pricing", "comparison"]
   }
 ]

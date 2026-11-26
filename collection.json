@@ -262,5 +262,12 @@
     "id": "getllms",
     "url": "https://getllms.org/ai-model-api-directory",
     "tags": ["catalog", "pricing", "comparison"]
+  },
+  {
+    "id": "lightcube-ai-api-cost-calculator",
+    "name": "LightCube AI API Cost Calculator",
+    "url": "https://lightcubedata.com/tools/ai-api-cost-calculator/?utm_source=github&utm_medium=awesome_list&utm_campaign=leadgen1125",
+    "tags": ["calculator", "pricing", "comparison"],
+    "description": "Estimate monthly LLM API cost from your request volume and token counts across OpenAI, Claude and Gemini, with prompt caching and batch discounts. Free, runs in the browser."
   }
 ]
